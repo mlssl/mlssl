@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="URL_DE_TA_IMAGE_FOND" alt="fond clair" width="100%">
-</p>
-
 # 🎓 Mathilde !  Étudiante à **42**
 
 ~ Promo 2024 ~
