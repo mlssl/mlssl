@@ -1,6 +1,4 @@
-# 👋 Bonjour, je suis Mathilde !  
-
-#🎓 Étudiante à **42**, promo 2024  
+# 🎓 Mathilde !  Étudiante à **42**, promo 2024  
 
 ---
 
