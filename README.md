@@ -48,7 +48,7 @@
 <img  width="100" alt="Capture d’écran 2025-11-19 à 15 38 49" src="https://github.com/user-attachments/assets/3c9e3118-5308-40a7-95ea-5481e3ea2302" />
 
 ### cub3d
-<img width="150" alt="Capture d’écran 2025-11-19 à 16 10 01" src="https://github.com/user-attachments/assets/460fc685-b589-430d-856e-53ade5f37962" />
+<img width="100" alt="Capture d’écran 2025-11-19 à 16 10 01" src="https://github.com/user-attachments/assets/460fc685-b589-430d-856e-53ade5f37962" />
 <img  width="100" alt="Capture d’écran 2025-11-19 à 15 42 27" src="https://github.com/user-attachments/assets/b3d31e29-6f17-4077-9686-4ca5238f43c2" />
 
 
