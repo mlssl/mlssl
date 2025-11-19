@@ -12,9 +12,11 @@
 <img width="199" height="169" alt="Capture d’écran 2025-11-19 à 15 38 49" src="https://github.com/user-attachments/assets/5304d761-db32-4939-a726-440f9258b296" />
 
 ### get_next_line
+<img width="150" height="150" alt="149212588-45d60d10-2e78-46c5-bf0c-0dc247464ad5" src="https://github.com/user-attachments/assets/f86daea1-de84-409c-bff8-b019df8512fe" />
 <img width="199" height="170" alt="Capture d’écran 2025-11-19 à 15 39 40" src="https://github.com/user-attachments/assets/ee5abbad-28da-42cc-8052-c8070c5cc84f" />
 
 ### ft_printf
+<img width="168" height="170" alt="Capture d’écran 2025-11-19 à 15 47 39" src="https://github.com/user-attachments/assets/6f1a6456-fd31-4363-9025-dfa953fa53f3" />
 <img width="198" height="170" alt="Capture d’écran 2025-11-19 à 15 39 15" src="https://github.com/user-attachments/assets/9e3e82f1-0182-422a-9be4-695950ddd72c" />
 
 
