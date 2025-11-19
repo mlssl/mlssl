@@ -9,13 +9,19 @@
 ### 🌟 C
 ##### libft
 ![lib](https://raw.githubusercontent.com/alx-sch/42_libft/main/.assets/libfte.png)
+
 [![get_next_line](https://img.shields.io/badge/get_next_line-✅-green)]()
+
 [![ft_printf](https://img.shields.io/badge/ft_printf-✅-green)]()
+
 ##### **push_swap**
 ![push_swap GIF](https://user-images.githubusercontent.com/38796098/57738594-6b6ae500-76b0-11e9-9d29-0f59ee825e8e.gif)
+![57738594-6b6ae500-76b0-11e9-9d29-0f59ee825e8e](https://github.com/user-attachments/assets/c0e8b96d-a6d0-4d3c-95ee-291269c54f42)
 
 [![pipex](https://img.shields.io/badge/pipex-✅-green)]()
+
 [![minishell](https://img.shields.io/badge/minishell-✅-green)]()
+
 [![philosophers](https://img.shields.io/badge/philosophers-✅-green)]()
 
 ### 🛠️ System
@@ -24,6 +30,8 @@
 
 ### 🌐 Graphique / 3D
 [![fdf](https://img.shields.io/badge/fdf-✅-green)]()
+![fdf](https://user-images.githubusercontent.com/21006147/190404961-988cedf9-bed6-417f-bed3-eb5dc2b7afda.png)
+
 [![cub3d](https://img.shields.io/badge/cub3d-✅-green)]()
 
 ### 🖥️ C++ / Modules
