@@ -25,6 +25,7 @@
 <img width="100" alt="Capture d’écran 2025-11-19 à 15 40 37" src="https://github.com/user-attachments/assets/510f2d66-a5ef-454d-9339-4d2152d70614" />
 
 ### pipex
+<img src="https://github.com/user-attachments/assets/071e90e2-74ab-4378-9f80-f71840dee340" alt="PIPEX" width="150">
 <img width="100" alt="Capture d’écran 2025-11-19 à 15 39 15" src="https://github.com/user-attachments/assets/7587d52e-25a1-42c0-947c-46aee12347dd" />
 
 ### minishell
@@ -43,10 +44,11 @@
 
 ## 🌐 Graphique / 3D
 ### fdf
-![fdf](https://user-images.githubusercontent.com/21006147/190404961-988cedf9-bed6-417f-bed3-eb5dc2b7afda.png)
+<img src="https://user-images.githubusercontent.com/21006147/190404961-988cedf9-bed6-417f-bed3-eb5dc2b7afda.png" alt="fdf" width="150">
 <img  width="100" alt="Capture d’écran 2025-11-19 à 15 38 49" src="https://github.com/user-attachments/assets/3c9e3118-5308-40a7-95ea-5481e3ea2302" />
 
 ### cub3d
+<img width="150" alt="Capture d’écran 2025-11-19 à 16 10 01" src="https://github.com/user-attachments/assets/460fc685-b589-430d-856e-53ade5f37962" />
 <img  width="100" alt="Capture d’écran 2025-11-19 à 15 42 27" src="https://github.com/user-attachments/assets/b3d31e29-6f17-4077-9686-4ca5238f43c2" />
 
 
