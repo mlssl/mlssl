@@ -19,7 +19,6 @@
 
 
 ### push_swap
-![push_swap GIF](https://user-images.githubusercontent.com/38796098/57738594-6b6ae500-76b0-11e9-9d29-0f59ee825e8e.gif)
 ![57738594-6b6ae500-76b0-11e9-9d29-0f59ee825e8e](https://github.com/user-attachments/assets/c0e8b96d-a6d0-4d3c-95ee-291269c54f42)
 <img width="199" height="169" alt="Capture d’écran 2025-11-19 à 15 40 37" src="https://github.com/user-attachments/assets/510f2d66-a5ef-454d-9339-4d2152d70614" />
 
