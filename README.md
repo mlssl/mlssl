@@ -29,16 +29,20 @@
 <img width="100" alt="Capture d’écran 2025-11-19 à 15 39 15" src="https://github.com/user-attachments/assets/7587d52e-25a1-42c0-947c-46aee12347dd" />
 
 ### minishell
+<img src="https://github.com/user-attachments/assets/d9ba7d5d-0ff4-42a6-82b3-8ad29ec36d7b" alt="Minishell" width="150">
 <img  width="100" alt="Capture d’écran 2025-11-19 à 15 39 40" src="https://github.com/user-attachments/assets/54457636-3d2e-48a2-8044-12ce4b66c22c" />
 
 ### philosophers
+<img src="https://github.com/user-attachments/assets/384d3411-f5c1-44b1-a2fd-ed2a6d43c28f" alt="PHILO" width="150">
 <img  width="100" alt="Capture d’écran 2025-11-19 à 15 39 15" src="https://github.com/user-attachments/assets/3433db77-dc4d-4b2e-975f-9003a1b2a800" />
 
 ## 🛠️ System
 ### born2beroot
+<img src="https://github.com/user-attachments/assets/26c7e22c-cdc6-40c9-9e9c-306e1b8c099d" alt="B2B" width="150">
 <img  width="100" alt="Capture d’écran 2025-11-19 à 15 39 15" src="https://github.com/user-attachments/assets/f6465ab2-632b-4de2-a5f1-55937962f871" />
 
 ### net_practice
+<img src="https://github.com/user-attachments/assets/0468dec5-ff66-40d9-bac5-345fde5f752f" alt="NET" width="150">
 <img  width="100" alt="Capture d’écran 2025-11-19 à 15 39 15" src="https://github.com/user-attachments/assets/dc303e4b-28d2-498d-8c49-c6708290272a" />
 
 
