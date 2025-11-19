@@ -44,8 +44,7 @@
 
 ## 🌐 Graphique / 3D
 ### fdf
-<img src="https://user-images.githubusercontent.com/21006147/190404961-988cedf9-bed6-417f-bed3-eb5dc2b7afda.png" alt="fdf" width="150">
-<img  width="100" alt="Capture d’écran 2025-11-19 à 15 38 49" src="https://github.com/user-attachments/assets/3c9e3118-5308-40a7-95ea-5481e3ea2302" />
+<img src="https://user-images.githubusercontent.com/21006147/190404961-988cedf9-bed6-417f-bed3-eb5dc2b7afda.png" alt="fdf" width="150"> <img  width="100" alt="Capture d’écran 2025-11-19 à 15 38 49" src="https://github.com/user-attachments/assets/3c9e3118-5308-40a7-95ea-5481e3ea2302" />
 
 ### cub3d
 <img width="100" alt="Capture d’écran 2025-11-19 à 16 10 01" src="https://github.com/user-attachments/assets/460fc685-b589-430d-856e-53ade5f37962" />
