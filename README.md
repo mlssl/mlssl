@@ -7,7 +7,7 @@
 ## ✅ Projets validés
 
 ### 🌟 C
-#####libft
+##### libft
 ![lib](https://raw.githubusercontent.com/alx-sch/42_libft/main/.assets/libfte.png)
 [![get_next_line](https://img.shields.io/badge/get_next_line-✅-green)]()
 [![ft_printf](https://img.shields.io/badge/ft_printf-✅-green)]()
