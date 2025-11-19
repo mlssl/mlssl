@@ -8,7 +8,7 @@
 
 ## 🌟 C
 ### libft
-![Blason de forme hexagonales avec bordure dorée avec écrit LIBFT au milieu et un ordinateur](https://github.com/user-attachments/assets/eda49553-046a-43bd-b5b7-f35555b8a91f)
+![libft](https://github.com/user-attachments/assets/7b77f2b3-7bde-4947-90ee-f62caf95ff11)
 <img width="199" height="169" alt="Capture d’écran 2025-11-19 à 15 38 49" src="https://github.com/user-attachments/assets/5304d761-db32-4939-a726-440f9258b296" />
 
 ### get_next_line
