@@ -1,4 +1,6 @@
-# 🎓 Mathilde !  Étudiante à **42**, promo 2024  
+# 🎓 Mathilde !  Étudiante à **42**
+
+~ Promo 2024 ~
 
 ---
 
