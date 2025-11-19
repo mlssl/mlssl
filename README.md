@@ -21,7 +21,7 @@
 
 
 ### push_swap
-<img src="https://github.com/user-attachments/assets/c0e8b96d-a6d0-4d3c-95ee-291269c54f42" alt="GIF" width="150">
+<img src="https://github.com/user-attachments/assets/c0e8b96d-a6d0-4d3c-95ee-291269c54f42" alt="GIF" width="100">
 <img width="100" alt="Capture d’écran 2025-11-19 à 15 40 37" src="https://github.com/user-attachments/assets/510f2d66-a5ef-454d-9339-4d2152d70614" />
 
 ### pipex
