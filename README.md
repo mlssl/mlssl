@@ -7,7 +7,7 @@
 ## ✅ Projets validés
 
 ### 🌟 C
-[![libft](https://img.shields.io/badge/libft-✅-green)]() 125%
+[![libft](https://img.shields.io/badge/libft-✅-green)]()
 [![get_next_line](https://img.shields.io/badge/get_next_line-✅-green)]()
 [![ft_printf](https://img.shields.io/badge/ft_printf-✅-green)]()
 [![push_swap](https://img.shields.io/badge/push_swap-✅-green)]()
