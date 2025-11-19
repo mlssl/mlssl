@@ -12,7 +12,7 @@
 <img width="100" height="150" alt="Capture d’écran 2025-11-19 à 15 38 49" src="https://github.com/user-attachments/assets/5304d761-db32-4939-a726-440f9258b296" />
 
 ### get_next_line
-<img src="[https://github.com/user-attachments/assets/7b77f2b3-7bde-4947-90ee-f62caf95ff11](https://github.com/user-attachments/assets/9faf8379-e5e1-4d43-8196-eb615f27687b)" alt="gnl" width="150">
+![GNL](https://github.com/user-attachments/assets/25a21db1-7c85-4c4b-9e59-f84d54a3edcc)
 <img width="100" height="150" alt="Capture d’écran 2025-11-19 à 15 39 40" src="https://github.com/user-attachments/assets/ee5abbad-28da-42cc-8052-c8070c5cc84f" />
 
 ### ft_printf
