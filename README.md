@@ -4,7 +4,6 @@
 
 ---
 
-### ✅ Projets validés
 
 ## 🌟 C
 ### libft
@@ -18,7 +17,6 @@
 ### ft_printf
 <img src="https://github.com/user-attachments/assets/4581771b-06c2-4bf1-a526-19d220537dac" alt="print" width="150">
 <img width="100" alt="Capture d’écran 2025-11-19 à 15 39 15" src="https://github.com/user-attachments/assets/9e3e82f1-0182-422a-9be4-695950ddd72c" />
-
 
 ### push_swap
 <img src="https://github.com/user-attachments/assets/c0e8b96d-a6d0-4d3c-95ee-291269c54f42" alt="GIF" width="100">
@@ -36,6 +34,9 @@
 <img src="https://github.com/user-attachments/assets/384d3411-f5c1-44b1-a2fd-ed2a6d43c28f" alt="PHILO" width="150">
 <img  width="100" alt="Capture d’écran 2025-11-19 à 15 39 15" src="https://github.com/user-attachments/assets/3433db77-dc4d-4b2e-975f-9003a1b2a800" />
 
+
+---
+
 ## 🛠️ System
 ### born2beroot
 <img src="https://github.com/user-attachments/assets/26c7e22c-cdc6-40c9-9e9c-306e1b8c099d" alt="B2B" width="150">
@@ -46,6 +47,8 @@
 <img  width="100" alt="Capture d’écran 2025-11-19 à 15 39 15" src="https://github.com/user-attachments/assets/dc303e4b-28d2-498d-8c49-c6708290272a" />
 
 
+---
+
 ## 🌐 Graphique / 3D
 ### fdf
 <img src="https://user-images.githubusercontent.com/21006147/190404961-988cedf9-bed6-417f-bed3-eb5dc2b7afda.png" alt="fdf" width="140"> <img  width="100" alt="Capture d’écran 2025-11-19 à 15 38 49" src="https://github.com/user-attachments/assets/3c9e3118-5308-40a7-95ea-5481e3ea2302" />
@@ -54,6 +57,8 @@
 <img width="90" alt="Capture d’écran 2025-11-19 à 16 10 01" src="https://github.com/user-attachments/assets/460fc685-b589-430d-856e-53ade5f37962" />
 <img  width="100" alt="Capture d’écran 2025-11-19 à 15 42 27" src="https://github.com/user-attachments/assets/b3d31e29-6f17-4077-9686-4ca5238f43c2" />
 
+
+---
 
 ## 🖥️ C++ / Modules
 ### CPP 00
