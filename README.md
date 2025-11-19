@@ -7,10 +7,11 @@
 ## ✅ Projets validés
 
 ### 🌟 C
-[![libft](https://img.shields.io/badge/libft-✅-green)]()
+#####libft
+![lib](https://raw.githubusercontent.com/alx-sch/42_libft/main/.assets/libfte.png)
 [![get_next_line](https://img.shields.io/badge/get_next_line-✅-green)]()
 [![ft_printf](https://img.shields.io/badge/ft_printf-✅-green)]()
-### **push_swap**
+##### **push_swap**
 ![push_swap GIF](https://user-images.githubusercontent.com/38796098/57738594-6b6ae500-76b0-11e9-9d29-0f59ee825e8e.gif)
 
 [![pipex](https://img.shields.io/badge/pipex-✅-green)]()
