@@ -16,8 +16,8 @@
 <img width="100" height="150" alt="Capture d’écran 2025-11-19 à 15 39 40" src="https://github.com/user-attachments/assets/ee5abbad-28da-42cc-8052-c8070c5cc84f" />
 
 ### ft_printf
-<img width="150" height="150" alt="157133425-69e61e0d-9051-4733-87cb-844319544a8b" src="https://github.com/user-attachments/assets/374b0b59-5f92-4ad2-a8f9-e08769731d81" />
-<img width="198" height="170" alt="Capture d’écran 2025-11-19 à 15 39 15" src="https://github.com/user-attachments/assets/9e3e82f1-0182-422a-9be4-695950ddd72c" />
+<img src="https://github.com/user-attachments/assets/4581771b-06c2-4bf1-a526-19d220537dac" alt="print" width="150">
+<img width="150" alt="Capture d’écran 2025-11-19 à 15 39 15" src="https://github.com/user-attachments/assets/9e3e82f1-0182-422a-9be4-695950ddd72c" />
 
 
 ### push_swap
