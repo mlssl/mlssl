@@ -17,7 +17,7 @@
 
 ### ft_printf
 <img src="https://github.com/user-attachments/assets/4581771b-06c2-4bf1-a526-19d220537dac" alt="print" width="150">
-<img width="150" alt="Capture d’écran 2025-11-19 à 15 39 15" src="https://github.com/user-attachments/assets/9e3e82f1-0182-422a-9be4-695950ddd72c" />
+<img width="100" alt="Capture d’écran 2025-11-19 à 15 39 15" src="https://github.com/user-attachments/assets/9e3e82f1-0182-422a-9be4-695950ddd72c" />
 
 
 ### push_swap
