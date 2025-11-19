@@ -9,7 +9,7 @@
 ## 🌟 C
 ### libft
 <img src="https://github.com/user-attachments/assets/7b77f2b3-7bde-4947-90ee-f62caf95ff11" alt="libft" width="150">
-<img width="150" height="150" alt="Capture d’écran 2025-11-19 à 15 38 49" src="https://github.com/user-attachments/assets/5304d761-db32-4939-a726-440f9258b296" />
+<img width="130" height="150" alt="Capture d’écran 2025-11-19 à 15 38 49" src="https://github.com/user-attachments/assets/5304d761-db32-4939-a726-440f9258b296" />
 
 ### get_next_line
 <img width="150" height="150" alt="149212588-45d60d10-2e78-46c5-bf0c-0dc247464ad5" src="https://github.com/user-attachments/assets/f86daea1-de84-409c-bff8-b019df8512fe" />
