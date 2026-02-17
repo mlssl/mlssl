@@ -44,7 +44,7 @@ LIBFT
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=radical&hide_border=true"/>
 
-<img src="https://progress-bar.dev/125/?width=260&color=00F0FF&fill=FF00FF&background=0d1117&format=png&label=LIBFT%20CORE"/>
+<img src="https://progress-bar.dev/100/?width=260&color=00F0FF&fill=FF00FF&background=0d1117&format=png&label=LIBFT%20CORE"/>
 
 </td>
 
