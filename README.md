@@ -42,9 +42,7 @@ LIBFT
 
 <br>
 
-<img src="https://geps.dev/progress/100?color=0:00F0FF,50:FF00FF,100:00F0FF"/>
-
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:00F0FF,50:FF00FF,100:00F0FF&height=10&section=header&text=████████████████████&fontSize=10&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://geps.dev/progress/100?color=0:39FF14,50:7CFC00,100:39FF14"/>
 
 
 </td>
