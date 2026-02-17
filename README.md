@@ -8,7 +8,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:00F0FF,50:000000,100:FF00FF&height=200&section=header&text=MATHILDE%20LAUSSEL%20%20%7C%2042%20LYON&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=600&lines=C;C%2B%2B;GRAPHICS;NETWORK+SYSTEMS"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=600&lines=WELCOME...;C+LANGUAGE+SKILLS;C%2B%2B+LANGUAGE+SKILLS;GRAPHICS+SKILLS;NETWORK+SYSTEMS+SKILLS"/>
 
 </div>
 
