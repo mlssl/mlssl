@@ -22,15 +22,11 @@
 + NAME    : Mathilde
 + STATUS  : 42 STUDENT
 + PROMO   : 2024
-+ LEVEL   : ELITE CADET
-+ FOCUS   : SYSTEM PROGRAMMING / GRAPHICS / C++
++ RANK    : SPACE CADET
++ FOCUS   : SYSTEM / GRAPHICS / C++
 ```
 
 </div>
-
----
-
-# ⚡ CORE PROJECTS
 
 ---
 
@@ -45,12 +41,9 @@
 
 <img src="https://github.com/user-attachments/assets/7b77f2b3-7bde-4947-90ee-f62caf95ff11" width="160"/>
 
-<img src="https://github.com/user-attachments/assets/5304d761-db32-4939-a726-440f9258b296" width="120"/>
+SYSTEM ENERGY
 
-```diff
-+ STATUS : COMPLETED
-+ SCORE  : 100 / 100
-```
+████████████████████ 100%
 
 </td>
 
@@ -60,16 +53,42 @@
 
 <img src="https://github.com/user-attachments/assets/25a21db1-7c85-4c4b-9e59-f84d54a3edcc" width="160"/>
 
-<img src="https://github.com/user-attachments/assets/ee5abbad-28da-42cc-8052-c8070c5cc84f" width="120"/>
+SYSTEM ENERGY
 
-```diff
-+ STATUS : COMPLETED
-+ SCORE  : 100 / 100
-```
+████████████████████ 100%
 
 </td>
 
 </tr>
+
+<tr>
+
+<td align="center">
+
+## FT_PRINTF
+
+<img src="https://github.com/user-attachments/assets/4581771b-06c2-4bf1-a526-19d220537dac" width="160"/>
+
+SYSTEM ENERGY
+
+████████████████████ 100%
+
+</td>
+
+<td align="center">
+
+## PUSH_SWAP
+
+<img src="https://github.com/user-attachments/assets/c0e8b96d-a6d0-4d3c-95ee-291269c54f42" width="160"/>
+
+SYSTEM ENERGY
+
+████████████████████ 100%
+
+</td>
+
+</tr>
+
 </table>
 
 ---
@@ -85,12 +104,9 @@
 
 <img src="https://github.com/user-attachments/assets/26c7e22c-cdc6-40c9-9e9c-306e1b8c099d" width="160"/>
 
-<img src="https://github.com/user-attachments/assets/f6465ab2-632b-4de2-a5f1-55937962f871" width="120"/>
+CORE POWER
 
-```diff
-+ STATUS : COMPLETED
-+ SCORE  : 100 / 100
-```
+████████████████████ 100%
 
 </td>
 
@@ -100,12 +116,9 @@
 
 <img src="https://github.com/user-attachments/assets/0468dec5-ff66-40d9-bac5-345fde5f752f" width="160"/>
 
-<img src="https://github.com/user-attachments/assets/dc303e4b-28d2-498d-8c49-c6708290272a" width="120"/>
+CORE POWER
 
-```diff
-+ STATUS : COMPLETED
-+ SCORE  : 100 / 100
-```
+████████████████████ 100%
 
 </td>
 
@@ -120,14 +133,11 @@
 
 ## CUB3D
 
-<img src="https://github.com/user-attachments/assets/460fc685-b589-430d-856e-53ade5f37962" width="140"/>
+<img src="https://github.com/user-attachments/assets/460fc685-b589-430d-856e-53ade5f37962" width="160"/>
 
-<img src="https://github.com/user-attachments/assets/b3d31e29-6f17-4077-9686-4ca5238f43c2" width="140"/>
+RENDER ENGINE
 
-```diff
-+ STATUS : COMPLETED
-+ SCORE  : 100 / 100
-```
+████████████████████ 100%
 
 </div>
 
@@ -145,37 +155,9 @@
 <img src="https://github.com/user-attachments/assets/85b8c1f8-7aec-43ee-b001-bcdf3fb906e9" width="90"/>
 <img src="https://github.com/user-attachments/assets/06bb2f0c-1439-4f84-9363-597d863c93f5" width="90"/>
 
-</div>
+NEURAL CAPACITY
 
----
-
-# 📡 GITHUB SYSTEM ANALYTICS
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=000000"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TON_USERNAME&theme=radical&hide_border=true&background=000000"/>
-
-</div>
-
----
-
-# 🛰️ SYSTEM STATUS
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=4000&color=FF00FF&center=true&vCenter=true&width=800&lines=SYSTEM+ONLINE;ALL+MODULES+OPERATIONAL;WELCOME+TO+MY+GITHUB;READY+FOR+NEXT+MISSION"/>
-
-</div>
-
----
-
-# 🌠 VISITOR SCANNER
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=TON_USERNAME&color=blueviolet&style=for-the-badge"/>
+████████████████████ ACTIVE
 
 </div>
 
