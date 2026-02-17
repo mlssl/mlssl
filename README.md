@@ -44,7 +44,12 @@ LIBFT
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=radical&hide_border=true"/>
 
-<img src="https://progress-bar.dev/100/?width=260&color=00F0FF&fill=FF00FF&background=0d1117&format=png&label=LIBFT%20CORE"/>
+## LIBFT
+<img src="https://github.com/user-attachments/assets/7b77f2b3-7bde-4947-90ee-f62caf95ff11" width="170" height="170"/>
+
+```diff
++ CORE ENERGY: ████████████████░░░░░░ 75%
+
 
 </td>
 
