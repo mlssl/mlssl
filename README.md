@@ -44,7 +44,7 @@ LIBFT
 
 <img src="https://geps.dev/progress/100?color=00F0FF"/>
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:00F0FF,50:000000,100:FF00FF&height=100&section=header&text=100%%&fontSize=5&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:00F0FF,50:000000,100:FF00FF&height=10&section=header&text=100%%&fontSize=5&fontColor=ffffff&animation=fadeIn"/>
 
 </td>
 
