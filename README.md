@@ -1,4 +1,5 @@
 # 🛰️ Mission Control // Mathilde Laussel
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mlssl&color=6100ff&style=flat-square&label=SYSTEM+ACCESS" alt="Visiteurs" />
 </p>
@@ -23,47 +24,53 @@
 
 ---
 
-### 🪐 MISSION ARCHIVES (42 PROJECTS)
+### 🪐 MISSION ARCHIVES (42 COMMON CORE)
 
 *Sélectionne un quadrant pour inspecter la base de code.*
 
-#### 🛠️ QUADRANT I: INFRASTRUCTURE & DATAOPS
-*Systèmes embarqués, isolation et automatisation des pipelines d'infrastructure.*
+#### 🛠️ QUADRANT I: ORBITAL INFRASTRUCTURE & DATAOPS
+*Virtualisation, orchestration et isolation d'environnements et microservices.*
 
-*   [**🛰️ Project: Inception**](https://github.com/mlssl/inception) — *Multi-Container Orchestration*
-    *   **Payload:** Déploiement d'une infrastructure complète et hautement sécurisée via des conteneurs isolés.
-    *   **Modules:** `Docker` `Docker Compose` `Nginx` `MariaDB` `WordPress`[cite: 1].
-    *   *Status: Operational 🟢*
+*   [**🛰️ Inception**](https://github.com/mlssl/inception) — *Multi-Container Orchestration*
+    *   Architecture et déploiement d'une infrastructure sécurisée et isolée via des conteneurs interconnectés (`Docker Compose`, `Nginx`, `MariaDB`, `WordPress`).
 
-#### 📡 QUADRANT II: NETWORKS & DATA STREAMS
-*Gestion de flux de données massifs en temps réel et communication bas niveau.*
+#### 📡 QUADRANT II: OBJECT-ORIENTED & NETWORKS
+*Programmation réseau, protocoles de communication et paradigme objet.*
 
-*   [**📡 Project: Webserv**](https://github.com/mlssl/webserv) — *HTTP Server from Scratch*
-    *   **Payload:** Serveur HTTP performant gérant des flux de communication réseau asynchrones en temps réel[cite: 1].
-    *   **Modules:** `C++` `Sockets` `Network Programming` `I/O Multiplexing (Poll/Select)`[cite: 1].
-    *   *Status: Operational 🟢*
+*   [**📡 Webserv**](https://github.com/mlssl/webserv) — *HTTP Server from Scratch*
+    *   Serveur HTTP asynchrone performant capable de gérer des flux de données en temps réel (`C++`, `Sockets`, Multiplexage `Poll/Select`).
+*   [**🧬 CPP Modules (00 to 09)**](https://github.com/mlssl/cpp) — *Object-Oriented Programming & Algos*
+    *   Série de projets validant la rigueur de la POO et l'analyse algorithmique avancée (ex: implémentation du "Merge-Insertion Sort" de Ford-Johnson et manipulation intensive de conteneurs complexes comme `std::vector`, `std::deque`, `std::list`).
 
-#### 🧮 QUADRANT III: ALGORITHMIC MATRIX
-*Optimisation mathématique, ingestion de flux et structures de données complexes.*
+#### 🎛️ QUADRANT III: CONCURRENCY & PROCESS CONTROL
+*Gestion des ressources système, parallélisme et cycle de vie des processus de bas niveau.*
 
-*   [**🧬 Project: CPP Module 09**](https://github.com/mlssl/cpp09) — *Ford-Johnson & Container Evaluation*
-    *   **Payload:** Algorithmique avancée via le "Merge-Insertion Sort" pour minimiser le coût mathématique des calculs[cite: 1]. Ingestion et manipulation de structures lourdes[cite: 1].
-    *   **Modules:** `C++` `std::vector` `std::deque` `std::list` `Algorithm Optimization`[cite: 1].
-    *   *Status: Operational 🟢*
+*   [**🐚 Minishell**](https://github.com/mlssl/minishell) — *Your own Bash*
+    *   Recodage complet d'un shell d'exécution avec gestion des processus (`fork`), des redirections (`dup2`), des `pipes` et des variables d'environnement.
+*   [**🧠 Philosophers**](https://github.com/mlssl/philosophers) — *The Dining Philosophers Problem*
+    *   Introduction au multi-threading et à l'asynchronisme. Résolution des problèmes d'accès concurrents aux ressources via l'utilisation de `mutexes` et de threads.
+
+#### 📊 QUADRANT IV: SYSTEM LOGISTICS & VECTORIAL ENGINES
+*Algorithmique fondamentale, gestion stricte de la mémoire en C et rendus graphiques.*
+
+*   📦 **Core Logic :** 
+    *   [**libft**](https://github.com/mlssl/libft) (Recodage de la bibliothèque C standard) • [**get_next_line**](https://github.com/mlssl/get_next_line) (Lecture optimisée par buffers de flux de données depuis un descripteur de fichier) • [**push_swap**](https://github.com/mlssl/push_swap) (Tri de données optimisé sur deux piles avec un set d'instructions limité).
+*   📐 **Vectorial Engines :** 
+    *   [**FdF**](https://github.com/mlssl/FdF) (Moteur de rendu de fil de fer et projections 3D isométriques) • [**cub3D**](https://github.com/mlssl/cub3D) (Moteur graphique 3D à la première personne en Raycasting utilisant les principes trigonométriques).
 
 ---
 
 ### 🛸 HUMAN FACTOR & TRANSMISSION
-*   **📡 Communication & Pédagogie :** Ancienne professeure des écoles, experte pour vulgariser des systèmes complexes ou former des équipes[cite: 1].
-*   **👩‍🚀 Leadership :** Marraine active à l'école 42 Lyon, fondatrice d'un club tech[cite: 1].
-*   **☄️ Navigation :** Autonome, résiliente face aux imprévus, programmée pour résoudre des problèmes complexes[cite: 1].
+*   **📡 Communication & Pédagogie :** Ancienne professeure des écoles, experte pour vulgariser des systèmes complexes ou former des équipes.
+*   **👩‍🚀 Leadership :** Marraine active à l'école 42 Lyon, fondatrice d'un club tech.
+*   **☄️ Navigation :** Autonome, résiliente face aux imprévus, programmée pour résoudre des problèmes complexes.
 
 ---
 
 ### 📇 ESTABLISH QUANTUM LINK
-*   **Subspace Wave :** [mathildelaussel@hotmail.fr](mailto:mathildelaussel@hotmail.fr)[cite: 1]
-*   **Comms Network :** [LinkedIn](https://linkedin.com/in/ton-lien-ici)
-*   **Pilot License :** Permis B[cite: 1]
+*   **Subspace Wave :** [mathildelaussel@hotmail.fr](mailto:mathildelaussel@hotmail.fr)
+*   **Comms Network :** [LinkedIn](https://www.linkedin.com/in/mathilde-laussel)
+*   **Pilot License :** Permis B
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mlssl&show_icons=true&theme=tokyonight&count_private=true" alt="Mathilde's GitHub stats" />
