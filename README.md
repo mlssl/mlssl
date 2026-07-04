@@ -51,6 +51,3 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mlssl&show_icons=true&theme=tokyonight&count_private=true" alt="Mathilde's GitHub stats" />
-</p>
