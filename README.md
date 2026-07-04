@@ -1,184 +1,70 @@
-<!-- ========================================= -->
+# 🛰️ Mission Control // Mathilde Laussel
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mlssl&color=6100ff&style=flat-square&label=SYSTEM+ACCESS" alt="Visiteurs" />
+</p>
 
-<!-- HEADER CYBERPUNK SPATIAL -->
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-ORBITAL_PROPULSION-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LOCATION-CHASSELAY_LYON_COORDINATES-blue?style=for-the-badge" />
+</p>
 
-<!-- ========================================= -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:00F0FF,50:000000,100:FF00FF&height=200&section=header&text=MATHILDE%20LAUSSEL%20%20%7C%2042%20LYON&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=600&lines=WELCOME...;C+LANGUAGE+SKILLS;C%2B%2B+LANGUAGE+SKILLS;GRAPHICS+SKILLS;NETWORK+SYSTEMS+SKILLS"/>
-
-</div>
-
----
-
-# 🧠 SUMMARY
-
-```yaml
-Name    : Mathilde Laussel
-School  : 42 Lyon
-Promo   : 2024
-Focus   : C / C++ / Graphics / Network Systems
-Status  : Active
-```
+> **[ENG]** 42 Lyon Cadet & Digital Technology Architect, searching for a Data Engineering / DevOps orbital mission (Internship).  
+> **[FRA]** Étudiante à 42 Lyon, architecte en technologie du numérique, à la recherche d'une mission en **Stage Data Engineer / DevOps**.
 
 ---
 
-# 🧬 C
+### 🎛️ CORE TECHSTACK & ARMAMENT
 
-<table>
-
-<tr>
-
-<td>
-
-LIBFT
-
-<br>
-
-<img src="https://github.com/user-attachments/assets/7b77f2b3-7bde-4947-90ee-f62caf95ff11" width="170" height="170"/>
-
-<br>
-
-<img src="https://geps.dev/progress/100?color=0:39FF14,50:7CFC00,100:39FF14"/>
-
-
-</td>
-
-<td>
-
-GET_NEXT_LINE
-
-<br>
-
-<img src="https://github.com/user-attachments/assets/25a21db1-7c85-4c4b-9e59-f84d54a3edcc" width="170" height="170"/>
-
-<br>
-
-<img src="https://geps.dev/progress/100?color=FF00FF"/>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-FT_PRINTF
-
-<br>
-
-<img src="https://github.com/user-attachments/assets/4581771b-06c2-4bf1-a526-19d220537dac" width="170" height="170"/>
-
-<br>
-
-<img src="https://geps.dev/progress/100?color=00F0FF"/>
-
-</td>
-
-<td>
-
-PUSH_SWAP
-
-<br>
-
-<img src="https://github.com/user-attachments/assets/c0e8b96d-a6d0-4d3c-95ee-291269c54f42" width="170" height="170"/>
-
-<br>
-
-<img src="https://geps.dev/progress/100?color=FF00FF"/>
-
-</td>
-
-</tr>
-
-</table>
+| SYSTEM | CORE MODULES |
+| :--- | :--- |
+| **🚀 LAUNCHPAD & OPS** | `Docker` • `Docker Compose` • `Linux (Bash)` • `Git` • `Jira` |
+| **💾 DATA CORES** | `MySQL / MariaDB` • `Prisma ORM` • `Relational Architecture` |
+| **⚡ ENGINES (LANGUAGES)** | `C` • `C++ (Object Oriented)` • `TypeScript` • `SvelteKit` |
 
 ---
 
-# 🌐 NETWORK SYSTEMS
+### 🪐 MISSION ARCHIVES (42 PROJECTS)
 
-<table>
+*Sélectionne un quadrant pour inspecter la base de code.*
 
-<tr>
+#### 🛠️ QUADRANT I: INFRASTRUCTURE & DATAOPS
+*Systèmes embarqués, isolation et automatisation des pipelines d'infrastructure.*
 
-<td>
+*   [**🛰️ Project: Inception**](https://github.com/mlssl/inception) — *Multi-Container Orchestration*
+    *   **Payload:** Déploiement d'une infrastructure complète et hautement sécurisée via des conteneurs isolés.
+    *   **Modules:** `Docker` `Docker Compose` `Nginx` `MariaDB` `WordPress`[cite: 1].
+    *   *Status: Operational 🟢*
 
-BORN2BEROOT
+#### 📡 QUADRANT II: NETWORKS & DATA STREAMS
+*Gestion de flux de données massifs en temps réel et communication bas niveau.*
 
-<br>
+*   [**📡 Project: Webserv**](https://github.com/mlssl/webserv) — *HTTP Server from Scratch*
+    *   **Payload:** Serveur HTTP performant gérant des flux de communication réseau asynchrones en temps réel[cite: 1].
+    *   **Modules:** `C++` `Sockets` `Network Programming` `I/O Multiplexing (Poll/Select)`[cite: 1].
+    *   *Status: Operational 🟢*
 
-<img src="https://github.com/user-attachments/assets/26c7e22c-cdc6-40c9-9e9c-306e1b8c099d" width="170" height="170"/>
+#### 🧮 QUADRANT III: ALGORITHMIC MATRIX
+*Optimisation mathématique, ingestion de flux et structures de données complexes.*
 
-<br>
-
-<img src="https://geps.dev/progress/100?color=00F0FF"/>
-
-</td>
-
-<td>
-
-NET PRACTICE
-
-<br>
-
-<img src="https://github.com/user-attachments/assets/0468dec5-ff66-40d9-bac5-345fde5f752f" width="170" height="170"/>
-
-<br>
-
-<img src="https://geps.dev/progress/100?color=FF00FF"/>
-
-</td>
-
-</tr>
-
-</table>
+*   [**🧬 Project: CPP Module 09**](https://github.com/mlssl/cpp09) — *Ford-Johnson & Container Evaluation*
+    *   **Payload:** Algorithmique avancée via le "Merge-Insertion Sort" pour minimiser le coût mathématique des calculs[cite: 1]. Ingestion et manipulation de structures lourdes[cite: 1].
+    *   **Modules:** `C++` `std::vector` `std::deque` `std::list` `Algorithm Optimization`[cite: 1].
+    *   *Status: Operational 🟢*
 
 ---
 
-# 🎮 GRAPHICS
-
-<br>
-
-CUB3D
-
-<br>
-
-<img src="https://github.com/user-attachments/assets/460fc685-b589-430d-856e-53ade5f37962" width="170" height="170"/>
-
-<br>
-
-<img src="https://geps.dev/progress/100?color=00F0FF"/>
+### 🛸 HUMAN FACTOR & TRANSMISSION
+*   **📡 Communication & Pédagogie :** Ancienne professeure des écoles, experte pour vulgariser des systèmes complexes ou former des équipes[cite: 1].
+*   **👩‍🚀 Leadership :** Marraine active à l'école 42 Lyon, fondatrice d'un club tech[cite: 1].
+*   **☄️ Navigation :** Autonome, résiliente face aux imprévus, programmée pour résoudre des problèmes complexes[cite: 1].
 
 ---
 
-# 🤖 C++
+### 📇 ESTABLISH QUANTUM LINK
+*   **Subspace Wave :** [mathildelaussel@hotmail.fr](mailto:mathildelaussel@hotmail.fr)[cite: 1]
+*   **Comms Network :** [LinkedIn](https://linkedin.com/in/ton-lien-ici)
+*   **Pilot License :** Permis B[cite: 1]
 
-<br>
-
-<img src="https://github.com/user-attachments/assets/3a20cae4-a729-45da-b294-deeec8d662fd" width="110" height="110"/>
-
-<img src="https://github.com/user-attachments/assets/65741f30-c2fc-4218-8164-2c3c86d6fd9c" width="110" height="110"/>
-
-<img src="https://github.com/user-attachments/assets/2b502a7e-c3ec-476c-96b0-4f16d712c41a" width="110" height="110"/>
-
-<img src="https://github.com/user-attachments/assets/212d8fdc-5ddd-4877-9277-53fdeec5dcc0" width="110" height="110"/>
-
-<img src="https://github.com/user-attachments/assets/00c0777c-1352-4d47-ae4e-d4f1c9d7297e" width="110" height="110"/>
-
-<img src="https://github.com/user-attachments/assets/85b8c1f8-7aec-43ee-b001-bcdf3fb906e9" width="110" height="110"/>
-
-<img src="https://github.com/user-attachments/assets/06bb2f0c-1439-4f84-9363-597d863c93f5" width="110" height="110"/>
-
-<br>
-
-<img src="https://geps.dev/progress/100?color=FF00FF"/>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:FF00FF,50:000000,100:00F0FF&height=120&section=footer"/>
-
-<!-- ========================================= -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mlssl&show_icons=true&theme=tokyonight&count_private=true" alt="Mathilde's GitHub stats" />
+</p>
