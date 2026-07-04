@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/MISSION_CONTROL-COMMAND_CENTER-6100ff?style=for-the-badge&logo=spacex&logoColor=white" />
-  <img src="https://img.shields.io/badge/STATUS-ORBITAL_RESEARCH-00d2ff?style=for-the-badge" />
-</p>
-
 <h1 align="center">🌌 Mathilde Laussel</h1>
 
 <p align="center">
@@ -40,9 +35,6 @@
 
 *   [**FdF**](https://github.com/mlssl/FdF) (Moteur de rendu de fil de fer et projections 3D isométriques) • [**cub3D**](https://github.com/mlssl/cub3D) (Moteur graphique 3D à la première personne en Raycasting utilisant les principes trigonométriques).
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%" />
-</p>
 
 *   **📡 Communication & Pédagogie :** Ancienne professeure des écoles, experte pour vulgariser des systèmes complexes ou former des équipes.
 *   **👩‍🚀 Leadership :** Marraine à l'école 42 Lyon, fondatrice d'un club informatique dans le milieu scolaire.
