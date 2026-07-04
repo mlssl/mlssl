@@ -17,13 +17,13 @@
 
 *   [**🐚 Minishell**](https://github.com/mlssl/minishell) — *Your own Bash*
     *   Recodage complet d'un shell d'exécution avec gestion des processus (`fork`), des redirections (`dup2`), des `pipes` et des variables d'environnement.
-    * 
+      
 *   [**🧠 Philosophers**](https://github.com/mlssl/philosophers) — *The Dining Philosophers Problem*
     *   Introduction au multi-threading et à l'asynchronisme. Résolution des problèmes d'accès concurrents aux ressources via l'utilisation de `mutexes` et de threads.
 
 *   [**libft**](https://github.com/mlssl/libft) (Recodage de la bibliothèque C standard)
 
-*   [**get_next_line**](https://github.com/mlssl/get_next_line) (Lecture optimisée par buffers de flux de données depuis un descripteur de fichier)
+*   [**get_next_line**](https://github.com/mlssl/Get-Next-Line) (Lecture optimisée par buffers de flux de données depuis un descripteur de fichier)
 
 *   [**push_swap**](https://github.com/mlssl/push_swap) (Tri de données optimisé sur deux piles avec un set d'instructions limité).
 
