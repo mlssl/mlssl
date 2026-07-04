@@ -1,9 +1,4 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/MISSION_CONTROL-COMMAND_CENTER-6100ff?style=for-the-badge&logo=spacex&logoColor=white" />
-  <img src="https://img.shields.io/badge/STATUS-ORBITAL_RESEARCH-00d2ff?style=for-the-badge" />
-</p>
 
-<!-- Titre principal en dégradé Cyber-Spatial -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&height=60&lines=%F0%9F%8C%8C+Mathilde+Laussel" alt="Mathilde Laussel" />
 </p>
@@ -16,7 +11,6 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 </p>
 
-<!-- Sous-titre en dégradé Violet/Néon -->
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&color=B026FF&width=450&height=40&lines=%F0%9F%AA%90+MISSION+ARCHIVES+(42+COMMON+CORE)" alt="Mission Archives" />
 </p>
@@ -46,9 +40,6 @@
 
 *   [**FdF**](https://github.com/mlssl/FdF) (Moteur de rendu de fil de fer et projections 3D isométriques) • [**cub3D**](https://github.com/mlssl/cub3D) (Moteur graphique 3D à la première personne en Raycasting utilisant les principes trigonométriques).
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%" />
-</p>
 
 *   **📡 Communication & Pédagogie :** Ancienne professeure des écoles, experte pour vulgariser des systèmes complexes ou former des équipes[cite: 1].
 *   **👩‍🚀 Leadership :** Marraine à l'école 42 Lyon, fondatrice d'un club informatique dans le milieu scolaire[cite: 1].
