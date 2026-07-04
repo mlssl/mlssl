@@ -43,8 +43,11 @@
 
 <p align="center">
   <a href="mailto:mathildelaussel@hotmail.fr">
+    <img src="https://img.shields.io/badge/Me%20contacter%20par%20Mail-mathildelaussel%40hotmail.fr-ff007f?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/mathilde-laussel">
+    <img src="https://img.shields.io/badge/Mon%20Profil%20LinkedIn-mathilde--laussel-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
