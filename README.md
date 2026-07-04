@@ -1,5 +1,4 @@
-> **[ENG]** 42 Lyon Cadet & Digital Technology Architect, searching for a Data Engineering / DevOps orbital mission (Internship).  
-> **[FRA]** Étudiante à 42 Lyon, architecte en technologie du numérique, à la recherche d'une mission en **Stage Data Engineer / Data Scientist / Data Analyst**.
+Étudiante à 42 Lyon, architecte en technologie du numérique, à la recherche d'une mission en **Stage Data Engineer / Data Scientist / Data Analyst**.
 
 ---
 
