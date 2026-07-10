@@ -23,7 +23,7 @@
 *   [**📡 Webserv**](https://github.com/mlssl/webserv) — *HTTP Server*
     *   Serveur HTTP asynchrone performant capable de gérer des flux de données en temps réel (`C++`, `Sockets`, Multiplexage `Poll`).
 
-[**📡 cub3D**](https://github.com/mlssl/cub3d) — *Base jeu vidéo*
+*   [**📡 cub3D**](https://github.com/mlssl/cub3d) — *Base jeu vidéo*
     *   Création d'une map avec la technique de `raycasting` en `C` grâce à l'implémentation de formules mathématiques.
 
 *   [**🧬 CPP Modules (00 to 09)**](https://github.com/mlssl/cpp09) — *Object-Oriented Programming & Algos*
