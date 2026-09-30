@@ -17,6 +17,9 @@
 
 *Sélectionne un quadrant pour inspecter la base de code.*
 
+*   [**🛰️ Transcendence**]([https://github.com/mlssl/inception](https://github.com/mlssl/transcendenceRappeltout))
+    *   Application full-stack avec SvelteKit. Utilisation de Typescript, PostgreSQL, ORM Primsa, Tailwind CSS et Vitest. Contribution personnelle : système complet d'authentification (création de compte, connexion avec email, connexion avec Google, mot de passe oublié et 2FA) + mise en place d'un chat avec des websockets. (`SvelteKit`, `Authentification`, `Websockets`).
+  
 *   [**🛰️ Inception**](https://github.com/mlssl/inception)
     *   Architecture et déploiement d'une infrastructure sécurisée et isolée via des conteneurs interconnectés (`Docker Compose`, `Nginx`, `MariaDB`, `WordPress`).
   
